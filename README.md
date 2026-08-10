@@ -25,7 +25,7 @@ Multi-class classification (7 weight categories) on a tabular dataset of lifesty
 - Public leaderboard score: **0.77128**
 - Private leaderboard score: **0.78125**
 
-**Notebook:** [`round-1-obesity-risk/octwave-2.ipynb`](./round-1-obesity-risk/octwave-2.ipynb)
+**Notebook:** [`Octwave-Obesity Risk Prediction.ipynb`](./Octwave-Obesity%20Risk%20Prediction.ipynb)
 
 ---
 
@@ -47,7 +47,7 @@ Multi-label classification: given a pair of images of the same scene, identify o
 - Public leaderboard F1: **0.594**
 - Private leaderboard F1: **0.587**
 
-**Notebook:** [`round-2-change-detection/octwave-final.ipynb`](./round-2-change-detection/octwave-final.ipynb)
+**Notebook:** [`Octwave-Spot the Difference.ipynb`](./Octwave-Spot%20the%20Difference.ipynb)
 
 ---
 
